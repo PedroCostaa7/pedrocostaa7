@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Meu nome é Pedro Henrique, tenho 22 anos e sou natural de Minas Gerais. Atualmente estou cursando engenharia de Software, também a
-trabalho na área de gestão onde atualmente sou gerente de uma academia de rede e pude aprender e acrescentar muito na minha carreira profissional.(https://www.instagram.com/dev_em_dev/)".
+trabalho na área de gestão onde atualmente sou gerente de uma academia de rede e pude aprender e acrescentar muito na minha carreira profissional.
 
 
 ### 🤖 Linguagens e Tecnologias
